@@ -1,6 +1,9 @@
 /* NORMALIZE */
 @import url('../vendor/normalize.css');
 
+/* HEADER */
+@import url('../blocks/header/header.css');
+
 /* PLACES */
 @import url('../blocks/places/places.css');
 
