@@ -1,0 +1,5 @@
+.place {
+  display: grid;
+  grid-template: 534px / minmax(320px, 1fr) 1fr;
+  overflow: hidden;
+}

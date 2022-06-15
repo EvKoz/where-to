@@ -1,0 +1,6 @@
+.place__description {
+  padding: 62px 40px 85px 72px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
