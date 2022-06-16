@@ -1,6 +1,9 @@
 /* NORMALIZE */
 @import url('../vendor/normalize.css');
 
+/* CONTAINER */
+@import url('../blocks/container/container.css');
+
 /* HEADER */
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__menu/header__menu.css');
@@ -18,3 +21,11 @@
 @import url('../blocks/place/__description/_padding/place__description_padding_bottom.css');
 @import url('../blocks/place/__title/place__title.css');
 @import url('../blocks/place/__paragraph/place__paragraph.css');
+
+/* PEOPLE */
+@import url('../blocks/people/people.css');
+@import url('../blocks/people/__tag/people__tag.css');
+@import url('../blocks/people/__title/people__title.css');
+@import url('../blocks/people/__speaks/people__speaks.css');
+@import url('../blocks/people/__author/people__author.css');
+@import url('../blocks/people/__speech/people__speech.css');
