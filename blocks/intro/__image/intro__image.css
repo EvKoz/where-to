@@ -4,3 +4,9 @@
   object-fit: cover;
   margin: 0 93px 0 0;
 }
+
+@media (max-width: 1200px) {
+  .intro__image {
+    margin: 0 auto;
+  }
+}
