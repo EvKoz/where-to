@@ -1,5 +1,5 @@
-.header {
-max-width: 1142px;
-margin: 40px auto 0;
-
+.header{
+  display: flex;
+  max-width: 1142px;
+  margin: 40px auto;
 }
