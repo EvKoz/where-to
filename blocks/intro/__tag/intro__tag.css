@@ -1,10 +1,16 @@
 .intro__tag {
   text-transform: uppercase;
-  color: #ffd4b2;
+  color: #ffcea7;
   font-size: 11px;
+  line-height: 13px;
   font-weight: 700;
   font-family: Arial, Helvetica, sans-serif;
-  /* line-height: 1.2;/ */
-  letter-spacing: 3;
   margin: 0;
+}
+
+@media (max-width: 700px) {
+  .intro__tag {
+    font-size: 16px;
+    line-height: 18px;
+  }
 }
