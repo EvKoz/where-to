@@ -36,3 +36,7 @@
 @import url('../blocks/people/__speaks/people__speaks.css');
 @import url('../blocks/people/__author/people__author.css');
 @import url('../blocks/people/__speech/people__speech.css');
+
+/* FOOTER */
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
