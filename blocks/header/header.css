@@ -1,11 +1,11 @@
-.header{
+.header {
   display: flex;
-  max-width: 1142px;
-  margin: 40px auto 0;
+  max-width: 1150px;
+  margin: 50px auto;
 }
 
 @media (max-width: 1150px) {
-  .header{
+  .header {
     margin: 40px 40px 0;
   }
 }

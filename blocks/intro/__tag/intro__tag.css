@@ -1,0 +1,9 @@
+.intro__tag {
+  text-transform: uppercase;
+  color: #ffd4b2;
+  font-size: 11px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.2;
+  margin: 0;
+}
