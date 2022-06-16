@@ -1,0 +1,9 @@
+.intro{
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+justify-content: space-between;
+max-width: 1145px;
+min-height: 400px;
+margin: 65px auto 105px;
+}
