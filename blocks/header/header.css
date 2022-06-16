@@ -1,7 +1,7 @@
 .header{
   display: flex;
   max-width: 1142px;
-  margin: 40px auto;
+  margin: 40px auto 0;
 }
 
 @media (max-width: 1150px) {
