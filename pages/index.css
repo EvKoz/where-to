@@ -3,9 +3,6 @@
 
 @import url('../vendor/fonts/fonts.css');
 
-/* CONTAINER */
-@import url('../blocks/container/container.css');
-
 /* HEADER */
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__menu/header__menu.css');
