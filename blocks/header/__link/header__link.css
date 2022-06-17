@@ -1,6 +1,6 @@
 .header__link {
   text-decoration: none;
-  font-family: 'Roboto', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 13px;
   line-height: 1.56;
   font-weight: 700;
@@ -11,7 +11,8 @@
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
-}
+  display: block;
+  }
 
 .header__link:hover {
   opacity: 0.8;
@@ -21,5 +22,6 @@
   .header__link {
     font-size: 20px;
     line-height: 24px;
+    max-height: 24px;
   }
 }
