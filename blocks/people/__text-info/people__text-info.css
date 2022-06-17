@@ -1,0 +1,9 @@
+.people__text-info {
+  max-width: 580px;
+}
+
+@media screen and (max-width: 720px) {
+  .people__text-info {
+    max-width: 580px;
+  }
+}

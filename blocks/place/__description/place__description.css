@@ -4,3 +4,15 @@
   flex-direction: column;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 995px) {
+  .place__description {
+    padding: 62px 40px 85px 40px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .place__description {
+    order: 1;
+  }
+}

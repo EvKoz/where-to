@@ -31,6 +31,8 @@
 
 /* PEOPLE */
 @import url('../blocks/people/people.css');
+@import url('../blocks/people/__author-block/people__author-block.css');
+@import url('../blocks/people/__text-info/people__text-info.css');
 @import url('../blocks/people/__tag/people__tag.css');
 @import url('../blocks/people/__title/people__title.css');
 @import url('../blocks/people/__speaks/people__speaks.css');

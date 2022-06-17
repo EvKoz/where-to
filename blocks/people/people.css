@@ -4,3 +4,25 @@
   padding: 130px 69px 50px 69px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@media screen and (max-width: 995px) {
+  .people {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 120px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .people {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .people {
+    padding-bottom: 0;
+  } 
+}
