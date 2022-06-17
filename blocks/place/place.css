@@ -3,3 +3,15 @@
   grid-template: 534px / minmax(320px, 1fr) 1fr;
   overflow: hidden;
 }
+
+@media screen and (max-width: 995px) {
+  .place {
+    grid-template-rows: 440px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .place {
+    grid-template: 400px / minmax(320px, 1fr);
+  }
+}
